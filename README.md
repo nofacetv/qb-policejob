@@ -1,5 +1,9 @@
 # qb-policejob
-Police Job for QB-Core Framework :police_officer:
+Redesigned Police Job for QB-Core Framework :police_officer:
+
+This version features built in custom ranks, and sheriff ranks for those looking for a simple drag and drop operation
+
+NOTE: THIS VERSION INCLUDES CUSTOM WEAPONS IN THE ARMORY, YOU WILL NEED TO REPLACE THESE WITH WHAT YOU HAVE IN YOUR SERVER!!!!
 
 # License
 
@@ -21,7 +25,6 @@ Police Job for QB-Core Framework :police_officer:
 
 ## Dependencies
 - [qb-core](https://github.com/qbcore-framework/qb-core)
-- [qb-bossmenu](https://github.com/qbcore-framework/qb-bossmenu)  (Deprecated) - For the boss menu
 - [qb-management](https://github.com/qbcore-framework/qb-management) (Replaces qb-bossmenu) - For the boss/gang menu
 - [qb-garages](https://github.com/qbcore-framework/qb-garages) - For the vehicle spawner
 - [qb-clothing](https://github.com/qbcore-framework/qb-clothing) - For the locker room
